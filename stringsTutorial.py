@@ -1,4 +1,4 @@
-#PYTHON STRINGS NOTES
+#PYTHON STRINGS NOTES w/ help from W3 
 
 #                                   Multiline Strings
 
